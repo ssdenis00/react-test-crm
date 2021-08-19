@@ -3,8 +3,8 @@ import App from './components/App/App';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>,
+  <BrowserRouter basename={process.env.NODE_ENV === "development" ? "/" : "/build/"}>
+    < App />
+  </BrowserRouter >,
   document.getElementById('root')
 );
