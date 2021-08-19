@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.cf672b4e.chunk.css",
+    "main.js": "./static/js/main.649700e4.chunk.js",
+    "main.js.map": "./static/js/main.649700e4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d882fc2e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d882fc2e.js.map",
+    "static/js/2.b04a33bb.chunk.js": "./static/js/2.b04a33bb.chunk.js",
+    "static/js/2.b04a33bb.chunk.js.map": "./static/js/2.b04a33bb.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.cf672b4e.chunk.css.map": "./static/css/main.cf672b4e.chunk.css.map",
+    "static/js/2.b04a33bb.chunk.js.LICENSE.txt": "./static/js/2.b04a33bb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/Montserrat-SemiBold.1d679c82.woff2",
+    "static/media/Menu.css": "./static/media/settings-marker.fe04bfe8.svg",
+    "static/media/calendar-link-logo.b7814f58.svg": "./static/media/calendar-link-logo.b7814f58.svg",
+    "static/media/exit-link-logo.e753b457.svg": "./static/media/exit-link-logo.e753b457.svg",
+    "static/media/finance-link-logo.2c816d68.svg": "./static/media/finance-link-logo.2c816d68.svg",
+    "static/media/main-link-logo.10246988.svg": "./static/media/main-link-logo.10246988.svg",
+    "static/media/maps-link-logo.7703ccf1.svg": "./static/media/maps-link-logo.7703ccf1.svg",
+    "static/media/page-logo.66930149.svg": "./static/media/page-logo.66930149.svg",
+    "static/media/search-btn-logo.3f7818f3.svg": "./static/media/search-btn-logo.3f7818f3.svg",
+    "static/media/search-link-logo.d8347e49.svg": "./static/media/search-link-logo.d8347e49.svg",
+    "static/media/settings-link-logo.5f34416c.svg": "./static/media/settings-link-logo.5f34416c.svg",
+    "static/media/settings-profile-link-logo.7d428781.svg": "./static/media/settings-profile-link-logo.7d428781.svg",
+    "static/media/tables-link-logo.76ca1b0d.svg": "./static/media/tables-link-logo.76ca1b0d.svg",
+    "static/media/user-avatar.b085495d.svg": "./static/media/user-avatar.b085495d.svg",
+    "static/media/widgets-link-logo.c9299d23.svg": "./static/media/widgets-link-logo.c9299d23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d882fc2e.js",
+    "static/js/2.b04a33bb.chunk.js",
+    "static/css/main.cf672b4e.chunk.css",
+    "static/js/main.649700e4.chunk.js"
+  ]
+}
