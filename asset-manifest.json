@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.cf672b4e.chunk.css",
-    "main.js": "./static/js/main.649700e4.chunk.js",
-    "main.js.map": "./static/js/main.649700e4.chunk.js.map",
+    "main.js": "./static/js/main.bc05f77d.chunk.js",
+    "main.js.map": "./static/js/main.bc05f77d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d882fc2e.js",
     "runtime-main.js.map": "./static/js/runtime-main.d882fc2e.js.map",
-    "static/js/2.b04a33bb.chunk.js": "./static/js/2.b04a33bb.chunk.js",
-    "static/js/2.b04a33bb.chunk.js.map": "./static/js/2.b04a33bb.chunk.js.map",
+    "static/js/2.9e7b2403.chunk.js": "./static/js/2.9e7b2403.chunk.js",
+    "static/js/2.9e7b2403.chunk.js.map": "./static/js/2.9e7b2403.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.cf672b4e.chunk.css.map": "./static/css/main.cf672b4e.chunk.css.map",
-    "static/js/2.b04a33bb.chunk.js.LICENSE.txt": "./static/js/2.b04a33bb.chunk.js.LICENSE.txt",
+    "static/js/2.9e7b2403.chunk.js.LICENSE.txt": "./static/js/2.9e7b2403.chunk.js.LICENSE.txt",
     "static/media/App.css": "./static/media/Montserrat-SemiBold.1d679c82.woff2",
     "static/media/Menu.css": "./static/media/settings-marker.fe04bfe8.svg",
     "static/media/calendar-link-logo.b7814f58.svg": "./static/media/calendar-link-logo.b7814f58.svg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d882fc2e.js",
-    "static/js/2.b04a33bb.chunk.js",
+    "static/js/2.9e7b2403.chunk.js",
     "static/css/main.cf672b4e.chunk.css",
-    "static/js/main.649700e4.chunk.js"
+    "static/js/main.bc05f77d.chunk.js"
   ]
 }
