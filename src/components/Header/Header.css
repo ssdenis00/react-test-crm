@@ -1,0 +1,47 @@
+.header {
+  background: #4F27BF;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 32px;
+  box-sizing: border-box;
+}
+
+.header__block {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  object-position: center;
+}
+
+.header__logo_type_main {
+  margin: 0 24px 0 0;
+}
+
+.header__logo_type_avatar {
+  margin: 0 16px 0 0;
+}
+
+.header__tittle {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .header__tittle {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .header__logo {
+    width: 32px;
+    height: 32px;
+  }
+}

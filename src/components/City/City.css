@@ -1,0 +1,22 @@
+.content__city-item {
+  padding: 16px 0;
+  border-top: 1px solid #D7D7D7;
+}
+
+.content__city-item:last-of-type {
+  padding-bottom: 0;
+}
+
+.content__city-text {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .content__city-text {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
